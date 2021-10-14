@@ -5,7 +5,7 @@ provider "google" {
 
 terraform {
   backend "gcs" {
-    bucket = "sajjap-tf-state-prod"
+    bucket = "test-bucket-random-new"
     prefix = "terraform/state"
   }
 }
