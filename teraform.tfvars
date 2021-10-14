@@ -1,2 +1,2 @@
-project_id = "terraform-gcp-git"
+project_id = "gcp-terraform-git"
 region     = "europe-west2"
